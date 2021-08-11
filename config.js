@@ -78,41 +78,41 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  // firstListIcon: 'music',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
-    firstList: [
-      {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-    ],
+    // firstList: [
+    //   {
+    //     name: 'Inspirational',
+    //     link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+    //   },
+    //   {
+    //     name: 'Classic',
+    //     link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+    //   },
+    //   {
+    //     name: 'Oldies',
+    //     link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+    //   },
+    //   {
+    //     name: 'Rock',
+    //     link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+    //   },
+    // ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Typing Practice',
+        link: 'https://www.keybr.com/',
+      },
+      {
+        name: 'Typing works',
+        link: 'https://typing.works',
       },
       {
         name: 'Figma',
         link: 'https://figma.com/',
-      },
-      {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
       },
       {
         name: 'Telegram',
