@@ -49,9 +49,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'VK',
-      icon: 'square',
-      link: 'https://vk.com/',
+      name: 'Cambrige',
+      icon: 'languages',
+      link: 'https://dictionary.cambridge.org/dictionary/english/',
     },
     {
       id: '4',
@@ -61,9 +61,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'slack',
-      link: 'https://reddit.com/',
+      name: 'Soundcloud',
+      icon: 'music',
+      link: 'https://soundcloud.com',
     },
     {
       id: '6',
@@ -78,6 +78,7 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
+<<<<<<< HEAD
   // firstListIcon: 'music',
   secondListIcon: 'coffee',
 
@@ -117,6 +118,32 @@ const CONFIG = {
       {
         name: 'Telegram',
         link: 'https://webk.telegram.org',
+=======
+  firstListIcon: 'graduation-cap',
+
+  // Links
+  lists: {
+    firstList: [
+      {
+        name: 'KOS',
+        link: 'https://new.kos.cvut.cz',
+      },
+      {
+        name: 'CVUT Mail',
+        link: 'https://wimap.feld.cvut.cz',
+      },
+      {
+        name: 'BRUTE',
+        link: 'https://cw.felk.cvut.cz',
+      },
+      {
+        name: 'CourseWare',
+        link: 'https://cw.fel.cvut.cz',
+      },
+      {
+        name: 'Moodle',
+        link: 'https://moodle.fel.cvut.cz',
+>>>>>>> local
       },
     ],
   },
