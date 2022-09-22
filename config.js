@@ -49,9 +49,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'VK',
-      icon: 'square',
-      link: 'https://vk.com/',
+      name: 'Cambrige',
+      icon: 'languages',
+      link: 'https://dictionary.cambridge.org/dictionary/english/',
     },
     {
       id: '4',
@@ -61,9 +61,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'slack',
-      link: 'https://reddit.com/',
+      name: 'Soundcloud',
+      icon: 'music',
+      link: 'https://soundcloud.com',
     },
     {
       id: '6',
@@ -78,45 +78,30 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
-  secondListIcon: 'coffee',
+  firstListIcon: 'graduation-cap',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'KOS',
+        link: 'https://new.kos.cvut.cz',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'CVUT Mail',
+        link: 'https://wimap.feld.cvut.cz',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'BRUTE',
+        link: 'https://cw.felk.cvut.cz',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-    ],
-    secondList: [
-      {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'CourseWare',
+        link: 'https://cw.fel.cvut.cz',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
-      },
-      {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
-      },
-      {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Moodle',
+        link: 'https://moodle.fel.cvut.cz',
       },
     ],
   },
