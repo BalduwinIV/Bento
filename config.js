@@ -78,7 +78,6 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-<<<<<<< HEAD
   // firstListIcon: 'music',
   secondListIcon: 'coffee',
 
@@ -118,7 +117,6 @@ const CONFIG = {
       {
         name: 'Telegram',
         link: 'https://webk.telegram.org',
-=======
   firstListIcon: 'graduation-cap',
 
   // Links
@@ -143,7 +141,6 @@ const CONFIG = {
       {
         name: 'Moodle',
         link: 'https://moodle.fel.cvut.cz',
->>>>>>> local
       },
     ],
   },
